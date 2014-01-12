@@ -1,0 +1,1 @@
+﻿ /p:DeployOnBuild=true /p:PublishProfile=Production /p:PublishProfile="Properties\PublishProfiles\CITCDemo - Web Deploy.pubxml" /p:VisualStudioVersion=12.0 /p:Password="EzNYMh3etX3dqBgfnGtw2DAhf0eZRsGWcdgLgq3zlZY49pez6xSa5wXBhfgr" /p:AllowUntrustedCertificate=true
